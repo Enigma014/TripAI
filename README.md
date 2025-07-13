@@ -28,7 +28,7 @@ This is an automated web scraping bot built using Python and Selenium to search 
 
 ---
 
-## 🛠 Setup Instructions![Uploading Screenshot 2025-07-13 at 6.15.18 PM.png…]()
+## 🛠 Setup Instructions
 
 
 1. **Clone the repo:**
