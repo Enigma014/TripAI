@@ -14,6 +14,8 @@ This is an automated web scraping bot built using Python and Selenium to search 
 - Extracts final pricing (if available)
 
 ---
+<img width="546" height="671" alt="Screenshot 2025-07-13 at 6 14 49 PM" src="https://github.com/user-attachments/assets/1bb640fa-ff84-4373-abcd-9e046e50041b" />
+<img width="998" height="146" alt="Screenshot 2025-07-13 at 6 15 18 PM" src="https://github.com/user-attachments/assets/b12dabe1-17da-4479-a18b-0447899744fd" />
 
 ## ⚙️ Requirements
 
